@@ -1,0 +1,269 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+.nav-top {
+  display: flex;
+  gap: 800px;
+  margin-left: 50px;
+  /* background-color: beige; */
+  justify-content: center;
+  border-radius: 100px;
+
+  text-align: center;
+  margin-right: 45px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.nav-top p {
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+.bd {
+  color: #89888b;
+}
+.me-auto {
+  padding-left: 220px;
+  gap: 15px;
+}
+.bt-bg {
+  background-color: #fe5000;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.dot {
+  color: #fec452;
+  font-size: 50px;
+}
+.hero {
+  padding-top: 200px;
+  margin-left: 60px;
+  margin-right: 60px;
+  margin-bottom: 200px;
+}
+.hero h1 {
+  font-size: 65px;
+  color: #131217;
+}
+.text-one {
+  font-size: 20px;
+  color: #6a6a7a;
+  margin-top: 20px;
+}
+.image img {
+  max-width: 100%;
+  height: auto;
+  margin-top: 100px;
+}
+.container-1 {
+  margin-top: 150px;
+  margin-left: 70px;
+  background-color: white;
+  padding-left: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 30px;
+}
+.font-am {
+  color: #fe5000;
+  font-size: 40px;
+}
+.container-1 h2 {
+  font-size: 40px;
+}
+.rahul-clor {
+  background-color: #f4f4f8;
+  padding-top: 40px;
+  padding: 20px;
+}
+.card-top {
+  text-align: center;
+  margin-top: 60px;
+  padding-bottom: 50px;
+}
+.card-top h2 {
+  font-size: 50px;
+}
+.card-text {
+  padding-left: 150px;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+.card-text i {
+  color: red;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+.redius {
+  background-color: #f4f4f8;
+  border-radius: 60px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.choose-main {
+  margin-left: 80px;
+  margin-top: 100px;
+}
+.choose-main h2 {
+  font-size: 50px;
+}
+.choose-main img {
+  width: 80%;
+  border-radius: 30px;
+  margin-top: 30px;
+  padding-right: 1;
+}
+.choose-p {
+  display: flex;
+  gap: 200px;
+  font-size: 20px;
+  margin-top: 40px;
+}
+.choose-p1 {
+  display: flex;
+  gap: 154px;
+  font-size: 20px;
+  margin-top: 30px;
+}
+.choose-cl {
+  color: #fe5000;
+}
+.choose-last p {
+  font-size: 20px;
+  margin-right: 70px;
+  font-weight: 300;
+  margin-top: 50px;
+  color: #828297;
+}
+.choose-last img {
+  margin-top: 110px;
+  margin-bottom: 100px;
+  border: 1px solid;
+  border-radius: 200px;
+  border-color: #8c8c95;
+}
+.choose-bgcolor {
+  background-color: #f4f4f8;
+  margin-top: 100px;
+}
+.clients {
+  margin-bottom: 100px;
+}
+.clients-top {
+  margin-top: 100px;
+  text-align: center;
+}
+.clients-top h2 {
+  font-size: 50px;
+}
+.clients-top i {
+  color: #fe5000;
+}
+.clients-left img {
+  height: 300px;
+  margin-left: 100px;
+  margin-top: 50px;
+  border: 10px solid;
+  border-radius: 50%;
+  border-color: #89888b;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 40px;
+}
+.clients-left h4 {
+  margin-left: 160px;
+  font-size: 33px;
+  margin-top: 120px;
+  margin-right: 60px;
+}
+.client-bm {
+  margin-left: 160px;
+  margin-top: 50px;
+}
+.client-bm h5 {
+  font-size: 25px;
+}
+.client-bm p {
+  color: #9b9ba5;
+}
+#last-bgcolor {
+  background-color: #f4f4f8;
+}
+.contact {
+  margin-top: 100px;
+  margin-left: 100px;
+  background-color: white;
+  padding-left: 100px;
+  border-radius: 50px;
+  margin-right: 100px;
+}
+.form-img {
+  height: 900px;
+  width: 100%;
+  overflow-y: hidden;
+  display: inline;
+}
+.ls-bt {
+  margin-top: 30px;
+}
+.contact-txt i {
+  color: #cd3031;
+}
+.contact-txt h4 {
+  font-size: 30px;
+}
+.contact-txt {
+  padding-top: 100px;
+}
+.end {
+  display: flex;
+  gap: 200px;
+  margin-left: 100px;
+  margin-top: 150px;
+}
+.end h5 {
+  margin-bottom: 30px;
+}
+.end p {
+  color: #9999a5;
+}
+.end i {
+  font-size: 20px;
+  padding-left: 10px;
+}
+#line {
+  border: 1px solid;
+  margin: 50px 100px 50px 100px;
+  color: #d2d2d9;
+}
+.one {
+  display: flex;
+  gap: 70px;
+  margin-left: 100px;
+  padding-top: 20px;
+}
+.two {
+  margin-left: 100px;
+  margin-top: 40px;
+  color: #9b9ba5;
+}
+.last-txt {
+  display: flex;
+  gap: 40px;
+}
+.two-1 {
+  margin-left: 400px;
+}
+.des {
+  color: #b3b3bd;
+}
+.two-1 h5 {
+  padding-top: 20px;
+}
+#pd-all {
+  margin-right: 100px;
+}
